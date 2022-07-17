@@ -52,4 +52,4 @@ The module along with all 4 sensors will be placed on the tree trunk . all three
 **ALERT MESSAGE ON SMUGGLING OR TEMPERATURE RAISE**
 <br>
 
-<img src="https://user-images.githubusercontent.com/53194222/179402790-eb0085de-ecc1-4cc0-95df-0b0fee58d54d.jpeg" width="360" height="760">
+<img src="https://user-images.githubusercontent.com/53194222/179405122-396abbc6-bc1a-48c5-bd3b-dbb83be31080.jpeg" width="360" height="760">
